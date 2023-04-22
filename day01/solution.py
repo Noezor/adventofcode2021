@@ -17,3 +17,4 @@ def nb_increase(input : List[int]) -> int:
 
 print("solution 1 ", nb_increase(measures))
 print("solution 2 ", nb_increase([sum([measures[i+k] for k in range(3)]) for i in range(len(measures)-2)]))
+Hahahahh

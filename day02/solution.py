@@ -35,3 +35,4 @@ def multiply_coordinates(last_position):
 final_position_d1 = final_position_d1(parse_list_of_list("day02/input.txt"))
 print("solution 1: " + str(final_position_d1[0]*final_position_d1[1]))
 print("solution 2:" + str(multiply_coordinates(final_position_d2(parse_list_of_list("day02/input.txt")))))
+Hahahahh

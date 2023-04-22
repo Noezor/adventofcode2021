@@ -7,3 +7,5 @@ def parse(filepath) -> List[str]:
 def parse_list_of_list(filepath) -> List[str]:
     with open(filepath, "r") as f:
         return [[y.strip() for y in x.split(" ")] for x in f.read().split('\n')]
+
+Hahahahh
